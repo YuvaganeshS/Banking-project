@@ -3,6 +3,8 @@ This project presents an end-to-end data analytics workflow in the banking domai
 
 The goal of this project is to analyze customer behavior, loans, deposits, and risk patterns to derive actionable business insights.
 
+Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZDJhZjI5MzQtN2UxMS00ZjAyLTg3ZTEtNmVlMzBiMWQ1ZTQ2IiwidCI6IjMyMzdmYTdlLTNkODctNGQwZS1hMDkzLWQ0NmFiYWQzNTllMiIsImMiOjF9&pageName=aa768379224161d7ff9a
+
 🔗 Project Workflow
 . Data Extraction (SQL)
 . Data sourced from MySQL (localhost)
